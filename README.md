@@ -1,1 +1,1 @@
-# elfi_notebooks
+# [elfi](elfi.readthedocs.io)-related stuff
